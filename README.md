@@ -9,7 +9,7 @@
 ## Installation
 First clone the repository in google colab or in local environment:
 '''
-  git clone https://github.com/skv143+6/fly_tracking.git
+  !git clone https://github.com/skv143+6/fly_tracking.git
 '''
 
 ## Running
